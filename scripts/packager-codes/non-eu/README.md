@@ -4,7 +4,7 @@ A Python application to download and manage non-EU packager codes, as listed on 
 
 ## Setup
 
-Requires Python 3.5 or newer. To install, create a virtual environment using your favorite manager and activate it, for example:
+Requires Python 3.10 or newer. To install, create a virtual environment using your favorite manager and activate it, for example:
 
 ```shell script
 python3 -m venv ~/.pyenvs/packager-codes
